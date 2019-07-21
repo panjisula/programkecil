@@ -1,6 +1,7 @@
 # programkecil
-berisi kumpulan program kecil java
 
-boleh digunakan untu kbahan belajar teman-teman. 
+Berisi kumpulan program kecil java;
 
-Semoga bermanfaat..
+Boleh digunakan untuk bahan belajar teman-teman. 
+
+Semoga bermanfaat.
