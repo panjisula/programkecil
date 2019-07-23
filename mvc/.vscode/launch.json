@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MVCPatternDemo",
+            "request": "launch",
+            "mainClass": "MVCPatternDemo",
+            "projectName": "id.panjisula.cobamvc_570302da"
+        }
+    ]
+}
